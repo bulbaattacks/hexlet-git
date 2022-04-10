@@ -3,3 +3,4 @@ new line
 test
 experiment with amend
 love is
+go!
